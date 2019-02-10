@@ -4,9 +4,9 @@
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 3
    Case Problem 1
-   
+
    Typographical styles for Slate and Pencil Tutoring
-   
+
    Filename: sp_styles.css
 
 */
@@ -18,7 +18,7 @@ html {
 
 body {
    background-color: rgb(250, 238, 218);
-   font-family: Verdana, Geneva, Arial, sans-serif; 
+   font-family: Verdana, Geneva, Arial, sans-serif;
 }
 
 
@@ -48,10 +48,10 @@ body > header > nav a:hover, body > header > nav:active {
 /* Horizontal Navigation List Styles */
 
 nav.horizontal ul li {
-   background-color: rgb(18, 31, 102);  
+   background-color: rgb(18, 31, 102);
    font-size: 0.9em;
    padding: 10px 0;
-   text-align: center;     
+   text-align: center;
 }
 
 nav.horizontal a:link, nav.horizontal a:visited {
