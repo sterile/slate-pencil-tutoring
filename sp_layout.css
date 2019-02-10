@@ -93,3 +93,7 @@ hr {
 
 
 /* Footer Styles */
+
+footer {
+  clear: both;
+}
